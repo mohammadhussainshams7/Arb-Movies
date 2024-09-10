@@ -27,5 +27,7 @@ This project is a simple movie web app that showcases a list of movies, includin
 - `./assets/images/`: Directory for image assets used in movie cards.
 - `./assets/video/`: Directory for video assets used in the banner section.
 
+## Project ScreenShot
+
 ![ScreenShot](screencapture-file-G-ActualProjects-html-css-Arb-Movies-index-html-2024-04-04-10_38_34.png)
 
